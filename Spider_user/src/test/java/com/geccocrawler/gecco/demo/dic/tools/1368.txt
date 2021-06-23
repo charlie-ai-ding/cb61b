@@ -1,0 +1,1693 @@
+1. time
+2. morning
+3. afternoon
+4. noon
+5. evening
+6. night
+7. tonight
+8. today
+9. tomorrow
+10. yesterday
+11. weekend
+12. month
+13. year
+14. season
+15. spring
+16. autumn
+17. winter
+18. day
+19. date
+20. moment
+21. period
+22. history
+23. future
+24. birthday
+25. holiday
+26. festival
+27. schedule
+28. age
+气候类
+29. weather
+30. rain
+31. snow
+32. wind
+33. cloud
+自然类
+34. nature
+35. mountain
+36. air
+37. light
+38. water
+39. fire
+40. ice
+41. smoke
+42. heat
+43. ground
+44. sky
+45. river
+46. field
+47. forest
+48. sea
+49. stone
+50. star
+植物类
+
+51. plant
+52. grass
+
+53. tree
+54. crop
+动物类
+55. animal
+56. bird
+57. cat
+58. dog
+59. horse
+60. rabbit
+61. elephant
+62. bear
+63. tiger
+64. lion
+65. bull
+66. cow
+67. pig
+68. chicken
+69. fish
+70. sheep
+71. monkey
+72. snake
+73. reptile
+昆虫类
+74. insect
+75. bee
+76. butterfly
+77. spider
+其他生物
+78. bacteria
+地点类
+79. Place
+80. hospital
+81. restaurant
+82. hotel
+83. university
+84. factory
+85. jail
+86. zoo
+87. park
+88. school
+89. store
+90. club
+91. bar
+92. court
+93. market
+94. town
+95. village
+96. city
+机构类
+97. organization
+98. company
+99. charity
+声音类
+100. sound
+101. voice
+102. noise
+103. music
+食品类
+104. food
+105. egg
+106. meat
+107. steak
+108. bread
+109. cake
+110. dessert
+111. soup
+112. sandwich
+113. noodle
+114. pie
+115. chocolate
+116. sauce
+餐饮类
+117. meal
+118. breakfast
+119. lunch
+120. dinner
+蔬菜类
+121. vegetable
+122. potato
+123. tomato
+124. carrot
+125. lettuce
+126. bean
+水果类
+127. fruit
+128. apple
+129. orange
+130. banana
+食材类
+131. ingredient
+132. oil
+133. sugar
+134. salt
+135. butter
+136. cream
+饮料类
+137. drink
+138. coffee
+139. milk
+140. tea
+141. juice
+142. beer
+143. wine
+144. alcohol
+营养类
+145. nutrient
+146. mineral
+147. vitamin
+148. protein
+疾病类
+149. disease
+150. fever
+151. flu
+152. cancer
+房屋类
+153. house
+154. office
+155. room
+156. floor
+157. wall
+158. window
+159. door
+160. roof
+161. kitchen
+家具类
+162. furniture
+163. bed
+164. chair
+165. desk
+166. table
+167. seat
+168. couch
+服装类
+169. clothes
+170. shirt
+171. shoes
+172. cap
+173. hat
+174. coat
+175. dress
+176. pants
+177. uniform
+178. suits
+179. underwear
+180. pocket
+181. jeans
+182. button
+183. zip
+184. sock
+首饰类
+185. jewelry
+186. diamond
+187. ring
+化妆品
+188. cosmetics
+189. perfume
+190. lipstick
+191. powder
+交通类
+192. transport
+193. traffic
+194. bicycle
+195. ship
+196. boat
+197. plane
+198. train
+车辆类
+199. vehicle
+200. motorcycle
+201. bus
+202. car
+203. truck
+204. brake
+205. engine
+206. gear
+207. tire
+208. wheel
+路桥类
+209. road
+210. street
+211. bridge
+212. station
+装置类
+213. device
+214. lock
+215. key
+216. bell
+217. scale
+218. tap
+设备类
+219. equipment
+220. shower
+221. radio
+222. telephone
+223. camera
+224. computer
+225. TV
+226. fridge
+227. video
+容器类
+228. container
+229. box
+230. cup
+231. dish
+232. plate
+233. bowl
+234. basket
+235. tub
+236. sink
+237. pot
+238. pan
+材料类
+239. material
+240. cloth
+241. paper
+242. glass
+243. plastic
+244. gold
+245. paint
+246. chemical
+日常用品类
+247. toy
+248. brush
+249. mirror
+250. chain
+251. board
+252. handle
+253. cartoon
+254. bottle
+255. wood
+256. clock
+257. knife
+258. pen
+259. book
+260. album
+261. menu
+262. card
+263. envelope
+264. ticket
+265. pipe
+266. tube
+267. wire
+268. belt
+269. web
+270. film
+271. screen
+272. gift
+273. channel
+274. alarm
+275. electricity
+276. towel
+277. carpet
+278. tool
+279. junk
+280. fork
+281. spoon
+282. medicine
+283. drug
+284. pill
+数量
+285. couple
+286. double
+287. load
+288. pack
+289. lot
+单位
+290. unit
+291. meter
+292. inch
+293. pound
+294. gram
+295. piece
+事情
+296. thing
+297. issue
+298. matter
+299. stuff
+300. object
+301. event
+有关人的名次
+家庭角色类
+302. parent
+303. daughter
+304. son
+305. father
+306. mother
+307. brother
+308. sister
+309. husband
+310. wife
+311. uncle
+312. aunt
+313. grandfather
+314. grandmother
+315. role
+社会角色类
+316. kid
+317. child
+318. baby
+319. boy
+320. girl
+321. man
+322. woman
+323. friend
+324. lady
+325. gentleman
+326. boss
+327. customer
+328. student
+329. neighbor
+330. person
+331. volunteer
+332. fool
+333. sir
+334. madam
+职业类
+335. job
+336. doctor
+337. nurse
+338. professor
+339. lawyer
+340. engineer
+341. teacher
+342. coach
+343. guard
+344. judge
+群体类
+345. group
+346. people
+347. class
+348. team
+349. human
+350. staff
+351. society
+352. generation
+353. army
+354. government
+355. family
+关于具体名次的解读
+总单词量：355个
+类别：38个
+ 
+抽象名词：光背下来还不够
+话语类
+356. words
+357. topic
+358. subject
+359. joke
+360. question
+361. suggestion
+362. instruction
+363. permission
+文字类
+364. document
+365. story
+366. report
+367. novel
+368. note
+369. text
+370. letter
+371. email
+372. blog
+373. list
+374. menu
+375. rule:
+376. law
+377. grammar
+378. principle
+信息类
+379. information
+380. message
+381. news
+382. update
+383. notice
+384. fact
+385. detail
+386. evidence
+387. clue
+388. background
+389. data
+390. sign
+391. knowledge
+状态类
+392. state
+393. condition
+394. environment
+395. situation:
+396. mess
+397. balance
+398. peace
+399. emergency
+400. chance
+401. opportunity
+行为类
+402. act
+403. exercise
+404. practice
+405. test
+406. experiment
+407. lesson
+408. bath
+409. security
+410. attention
+411. focus
+412. step
+413. education
+414. advertisement
+415. treatment
+416. trick
+417. habit
+418. service
+419. business
+420. homework
+421. job：
+422. task
+423. project
+424. challenge
+425. duty:
+426. responsibility
+427. fault
+428. performance:
+429. concert
+430. opera
+431. drama
+432. study:
+433. math
+434. art
+435. science
+436. philosophy
+437. psychology
+438. arrangement:
+439. deal
+440. insurance
+441. account
+442. engagement
+443. occasion:
+444. meeting
+445. interview
+446. party
+447. picnic
+448. wedding
+449. funeral
+450. barbecue
+451. ceremony
+452. money:
+453. profit
+454. income
+455. salary
+456. loan
+457. cash
+458. cost
+459. credit
+460. deposit
+461. price
+462. tax
+463. bill
+464. budget
+活动类
+465. activity
+466. game
+467. discipline
+468. crime
+469. trade
+470. economy
+471. politics
+472. war
+473. trip
+474. fashion
+475. industry
+476. sports:
+477. soccer
+478. football
+479. golf
+480. basketball
+481. race
+思想类
+482. thought
+483. idea
+484. view
+485. theory
+486. religion
+487. plan:
+488. strategy
+489. policy
+490. program
+整体类
+491. network
+492. internet
+493. series
+494. career
+495. system:
+496. language
+497. transport
+其他类
+498. favor
+499. privilege
+500. mistake
+501. risk
+502. advantage
+503. benefit
+504. problem
+505. trouble
+506. surprise
+507. secret
+508. award
+509. prize
+510. diet
+511. property
+512. option
+513. case
+514. example
+515. sample
+516. score
+517. limit
+518. experience
+519. effort
+520. energy
+521. figure
+关于抽象名词的解读
+总单词量：166个
+类别：9个
+构成类名词：你的外在与内在
+核心词
+522. part
+部位
+523. side
+524. edge
+525. base
+526. core
+身体
+527. head
+528. eye
+529. ear
+530. face
+531. nose
+532. foot
+533. mouth
+534. tooth
+535. tongue
+536. neck
+537. shoulder
+538. breast
+539. chest
+540. stomach
+541. arm
+542. hand
+543. finger
+544. nail
+545. leg
+546. knee
+547. throat
+548. brain
+549. heart
+550. lung
+551. muscle
+552. bone
+553. nerve
+554. hair
+555. skin
+556. blood
+557. sweat
+精神
+558. mind
+559. spirit
+560. soul
+561. emotion
+562. feeling:
+563. shame
+564. stress
+565. respect
+566. desire
+567. pain
+568. sense
+力量
+569. strength
+570. force
+571. power:
+572. authority
+573. ability:
+574. sight
+575. intelligence
+576. memory
+577. skill
+动物
+578. tail
+579. wing
+植物
+580. flower
+581. leaf
+582. root
+583. branch
+其他
+584. whole
+585. rest
+586. half
+关于构成类名词的解读
+总单词量：65个
+类别：8个
+属性类名词:你的状态
+静态属性
+形状
+587. shape
+588. appearance
+尺寸
+589. size
+590. space
+位置
+591. position
+592. point
+593. line
+594. end
+595. bottom
+596. middle
+597. top
+598. front
+599. back
+600. center
+601. corner
+602. left
+603. right
+604. direction:
+605. east
+606. west
+607. north
+608. south
+品质
+609. quality
+610. feature
+611. character
+612. personality
+其他属性
+613. color
+614. weight
+615. tone
+616. material
+617. structure
+数量
+618. amount
+619. number
+620. measurement
+621. distance
+622. volume
+623. angle
+624. temperature
+625. level:
+626. degree
+627. grade
+628. rank
+629. standard
+630. rate:
+631. speed
+632. percentage
+类别
+633. kind
+634. type
+动态属性
+方式
+635. form
+636. way:
+637. behavior
+638. mood
+639. logic
+640. tradition
+641. culture
+642. style
+643. pattern
+644. relation
+645. manner
+原因
+646. cause
+647. reason
+648. source
+649. excuse
+650. factor
+目的
+651. purpose
+652. goal
+结果
+653. effect
+654. result
+过程
+655. course
+656. process
+关于属性类名词的解读
+总单词量：70个
+类比:12个
+单纯型动词：广交天下朋友
+本源词
+657. be 
+658. go
+659. come
+660. make
+归属
+拥有某物
+661. have 
+得到某物
+662. get
+给出某物
+663. give
+拿到某物
+664. take
+终点位置
+使到达某一位置
+665. put
+使轻轻到达某一位
+666. lay
+667. place
+使从其他位置到达说话者位置
+668. bring
+使从说话者位置到达其他位置
+669. send
+使位置暂停改变
+670. hold
+使位置保持不变
+671. keep
+位置保持不变
+672. stay
+673. hang
+674. settle
+相互位置
+一事物到另一事物上面
+675. cover
+一事物到另一事物下面
+676. support
+两事物混合
+677. mix
+两事物互换
+678. switch
+两事物相连
+679. link
+680. join
+681. connect
+682. stick
+683. tie
+两事物相遇
+684. meet
+两事物交叉
+685. cross
+运动轨迹
+从一个点到另一个点
+686. move
+687. shift
+经过某个点
+688. pass
+低点往高点
+689. raise
+690. lift
+691. rise
+高点往低点
+692. drop
+693. fall
+一事物在另一事物后面
+694. follow
+一事物在另一事物前面
+695. lead
+一物载一物
+696. carry
+往复运动
+697. bounce
+698. roll
+699. shake
+700. screw
+速度
+快速运动
+701. run
+702. rush
+703. hurry
+力量
+轻轻接触
+704. touch
+用力接触
+705. hit
+706. knock
+707. crash
+使快速运动
+708. throw
+用力接触并来回移动
+709. rub
+用力使事物脱离原来的位置
+710. pull
+对事物朝某一方向用力
+711. push
+712. draw
+713. press
+空间
+空间开放或关闭
+714. open
+715. close
+716. shut
+一事物进入某一空间
+717. fit
+718. enter
+一事物进入某一空间(气体或液体)
+719. fill
+720. pump
+721. spill
+722. spray
+事物离开某一空间
+723. clean
+724. clear
+725. wipe
+事物离开某一地点
+726. leave
+727. quit
+一事物到达某一地点
+728. arrive
+729. reach
+一事物固定在某一空间
+730. fix
+731. set
+时间
+某事发生
+732. begin
+733. start
+734. happen
+某事结束
+735. finish
+某事停止
+736. stop
+方向
+一个方向到另一个方向
+737. turn
+整体与部分
+从大到小(用力)
+738. break
+739. crack
+740. split
+741. tear
+从大到小
+742. divide
+从多到少
+743. cut
+形状
+744. bend
+745. fold
+746. twist
+747. stretch
+748. spread
+尺寸
+749. grow
+行为
+750. look
+751. see
+752. listen
+753. hear
+754. say
+755. speak
+756. talk
+757. tell
+758. ask
+759. think
+760. believe
+761. know
+762. like
+763. love
+764. do
+系动词
+765. become
+766. seem
+767. feel
+768. sound
+769. smell
+770. taste
+关于单纯型动词的解读
+总单词量：114个
+类别：15个
+世故型动词：朋友少，但效率高
+看
+771. find
+772. watch
+773. observe
+774. ignore
+775. search
+776. show
+说
+意见
+777. agree
+778. cancel
+779. let
+780. allow
+告诉
+781. claim
+782. warn
+783. introduce
+784. explain
+785. express
+786. confirm
+要求
+787. beg
+788. charge
+789. order
+带有情感地说
+790. argue
+791. blame
+792. praise
+793. encourage
+794. complain
+795. promise
+796. insist
+797. shout
+798. threat
+其他
+799. answer
+800. call
+801. count
+802. pronounce
+想
+803. consider
+804. guess
+805. deserve
+806. offer
+807. doubt
+808. suspect
+809. trust
+810. forget
+811. remember
+812. imagine
+813. mean
+814. learn
+815. understand
+816. wonder
+817. decide
+818. try
+819. want
+820. hope
+821. wish
+822. expect
+823. will
+824. shall
+825. should
+826. may
+827. might
+828. can
+829. must
+830. dare
+831. need
+832. impress
+833. attract
+感觉
+834. enjoy
+835. suffer
+836. appreciate
+837. care
+838. hate
+839. worry
+840. thank
+841. welcome
+842. bless
+843. thrill
+844. freak
+845. shock
+846. bother
+847. annoy
+848. disturb
+自然现象
+849. die
+850. live
+851. burn
+852. boil
+人体行为
+肢体
+853. dance
+854. ride
+855. lie
+856. climb
+857. beat
+上肢
+858. hug
+下肢
+859. sit
+860. stand
+861. walk
+862. kick
+863. jump
+864. skip
+面部
+865. smile
+866. laugh
+867. cry
+嘴巴
+868. eat
+869. kiss
+870. suck
+871. lick
+872. blow
+873. cough
+874. sing
+鼻子
+875. breathe
+皮肤
+876. bleed
+精神
+877. sleep
+878. wake
+879. relax
+健康
+880. hurt
+881. injure
+882. cure
+883. inject
+生活行为
+884. cook
+885. bake
+886. fry
+887. drive
+888. measure
+889. wear
+890. wash
+891. tape
+892. record
+893. post
+894. travel
+895. screw
+896. dig
+897. hide
+898. pack
+899. mark
+社会行为
+900. buy
+901. sell
+902. shop
+903. pay
+904. spend
+905. waste
+906. invite
+907. rent
+908. fight
+909. kill
+910. steal
+911. cheat
+912. invest
+913. rob
+914. wait
+915. marry
+916. divorce
+917. borrow
+918. lend
+919. owe
+920. vote
+921. bet
+922. celebrate
+923. play
+924. pretend
+925. help
+926. direct
+927. entertain
+928. interrupt
+929. distract
+930. design
+931. build
+932. invent
+933. copy
+934. prepare
+935. organize
+936. manage
+937. handle
+938. treat
+939. control
+940. use
+941. apply
+942. save
+943. choose
+944. accept
+945. pick
+946. collect
+947. win
+948. fail
+949. miss
+950. lose
+951. check
+952. examine
+953. compare
+954. solve
+955. analyze
+运动
+956. skate
+957. swim
+958. fly
+959. shoot
+工作
+960. work
+961. interview
+962. hire
+963. fire
+964. compete
+965. retire
+学习
+966. read
+967. write
+968. spell
+969. translate
+事物之间的关系
+970. match
+971. qualify
+972. equal
+973. share
+974. include
+975. separate
+976. belong
+977. depend
+978. involve
+事物的发展变化
+979. change
+980. develop
+981. improve
+982. reduce
+983. add
+984. promote
+事物相互作用
+985. damage
+986. spoil
+987. ruin
+988. affect
+989. attack
+关于世故型动词的解读
+总单词量：219个
+类别：14个
+让感觉飞起来：形容词
+物的属性与构成
+大小
+990. big
+991. huge
+992. little
+993. small
+994. medium
+高低
+995. high
+996. low
+长短
+997. long
+998. short
+999. tall
+深浅
+1000. deep
+1001. shallow
+粗细
+1002. thick
+1003. thin
+1004. fat
+1005. slim
+宽窄
+1006. narrow
+1007. wide
+重量
+1008. heavy
+1009. light
+正斜
+1010. straight
+1011. curved
+1012. flat
+形状
+1013. round
+1014. square
+距离
+1015. near
+1016. far
+事物与空间
+1017. full
+1018. empty
+1019. blank
+1020. bare
+1021. dirty
+时间
+1022. new
+1023. fresh
+数量
+1024. extra
+1025. only
+1026. single
+1027. poor
+1028. rich
+1029. slight
+1030. total
+质地
+1031. hard
+1032. soft
+1033. tough
+1034. tender
+1035. smooth
+1036. rough
+1037. sharp
+1038. blunt
+1039. fresh
+1040. raw
+1041. pure
+1042. plain
+1043. even
+力量
+1044. strong
+1045. weak
+1046. tight
+1047. loose
+1048. firm
+1049. tense
+状态
+1050. liquid
+1051. gas
+1052. solid
+温度
+1053. hot
+1054. warm
+1055. cold
+1056. cool
+湿度
+1057. dry
+1058. wet
+亮度
+1059. bright
+1060. dark
+1061. dull
+味道
+1062. sweet
+1063. bitter
+1064. delicious
+1065. sour
+1066. spicy
+声音
+1067. loud
+1068. quiet
+人的属性与构成
+时间
+1069. young
+1070. old
+身体
+1071. hungry
+1072. ill
+1073. sick
+1074. tired
+1075. blind
+1076. sore
+1077. born
+1078. pregnant
+1079. alive
+行为
+1080. busy
+1081. violent
+1082. wild
+外表
+1083. beautiful
+1084. ugly
+1085. sexy
+心智
+1086. smart
+1087. clever
+1088. stupid
+1089. confused
+1090. awake
+1091. asleep
+1092. familiar
+1093. patient
+态度
+1094. polite
+1095. lazy
+1096. honest
+1097. rude
+1098. brave
+1099. aggressive
+情感
+1100. interested
+1101. curious
+1102. proud
+1103. sure
+1104. confident
+心情
+1105. happy
+1106. glad
+1107. sad
+1108. upset
+1109. sorry
+1110. guilty
+1111. calm
+1112. afraid
+1113. angry
+1114. crazy
+1115. mad
+1116. excited
+1117. bored
+1118. disappointed
+1119. jealous
+1120. lonely
+事的属性与构成
+难度
+1121. easy
+1122. hard
+1123. difficult
+时间
+1124. late
+1125. due
+1126. urgent
+1127. efficient
+可能性
+1128. possible
+1129. available
+安全性
+1130. dangerous
+1131. safe
+其他
+1132. wrong
+1133. strict
+1134. correct
+1135. proper
+1136. lucky
+1137. fair
+1138. successful
+综合属性
+品质(好)
+1139. good
+1140. nice
+1141. fine
+1142. great
+1143. perfect
+1144. wonderful
+1145. amazing
+1146. excellent
+品质(坏)
+1147. bad
+1148. terrible
+1149. awful
+真实性
+1150. real
+1151. true
+1152. false
+1153. fake
+完整性
+1154. complete
+精确性
+1155. exact
+1156. specific
+复杂性
+1157. complicated
+1158. simple
+其他
+1159. fun
+1160. horrible
+1161. weird
+1162. strange
+1163. comfortable
+1164. incredible
+1165. gross
+事物关系
+特殊性
+1166. special
+1167. regular
+一致性
+1168. same
+1169. different
+普遍性
+1170. typical
+1171. normal
+1172. common
+1173. general
+1174. popular
+1175. average
+1176. particular
+1177. own
+重要性
+1178. serious
+1179. causal
+1180. important
+1181. main
+1182. formal
+1183. professional
+必要性
+1184. necessary
+关联性
+1185. free
+1186. relative
+1187. legal
+1188. physical
+1189. mental
+1190. local
+1191. native
+1192. international
+1193. cheap
+1194. expensive
+1195. separate
+1196. public
+1197. worth
+关于形容词的解读
+总单词量:208个
+类别：47个
+英语的灵魂：介词
+动态位置
+轨迹
+1198. across
+1199. along
+1200. past
+1201. over
+1202. up
+1203. down
+1204. through
+1205. on
+1206. off
+1207. in
+1208. out
+1209. against
+起点
+1210. from
+终点
+1211. to
+1212. toward
+1213. for
+1214. about
+静态位置
+点
+1215. at
+点与点
+1216. by
+1217. beside
+1218. before
+1219. after
+1220. behind
+1221. between
+1222. around
+点与平面
+1223. beyond
+1224. under
+1225. above
+1226. below
+点与空间
+1227. outside
+1228. inside
+1229. within
+从属
+1230. of
+1231. with
+1232. without
+时间
+1233. during
+1234. since
+1235. till
+替代
+1236. instead of
+比较
+1237. than
+1238. as
+整体与部分
+1239. besides
+1240. among
+1241. except
+1242. including
+因果
+1243. according to
+其他
+1244. despite
+1245. per
+关于介词的解读
+总单词量：48个
+类别：14个
+英语的配角：副词及其他
+副词
+时间
+1246. now
+1247. early
+1248. just
+1249. then
+1250. recently
+1251. ago
+1252. already
+1253. yet
+1254. ever
+1255. never
+1256. forever
+位置
+1257. here
+1258. there
+方向
+1259. away
+1260. forth
+1261. apart
+1262. together
+1263. aside
+数量
+1264. extra
+1265. alone
+程度
+1266. quite
+1267. much
+1268. very
+1269. well
+1270. extremely
+1271. almost
+1272. enough
+强调
+1273. actually
+1274. especially
+1275. absolutely
+1276. certainly
+速度
+1277. fast
+1278. slow
+1279. soon
+1280. suddenly
+1281. immediately
+1282. gradually
+频率
+1283. again
+1284. often
+1285. usually
+1286. always
+顺序
+1287. finally
+1288. eventually
+转折
+1289. otherwise
+可能性
+1290. probably
+1291. perhaps
+1292. maybe
+递进
+1293. also
+1294. too
+1295. either
+1296. neither
+1297. else
+引导
+1298. when
+1299. where
+1300. how
+1301. why
+1302. what
+连词
+因果
+1303. because
+转折
+1304. but
+1305. though
+并列
+1306. and
+条件
+1307. if
+1308. unless
+1309. except
+时间
+1310. while
+选择
+1311. or
+1312. whether
+限定词
+顺序
+1313. last
+1314. next
+数量
+1315. all
+1316. any
+1317. some
+1318. both
+1319. each
+1320. either
+1321. neither
+1322. every
+1323. few
+1324. many
+1325. much
+指代
+1326. this
+1327. that
+1328. these
+1329. those
+1330. another
+1331. such
+代词
+1332. I
+1333. you
+1334. he
+1335. she
+1336. we
+1337. they
+1338. it
+疑问代词
+1339. which
+1340. who
+冠词
+1341. a
+1342. an
+1343. the
+感叹词
+1344. bye
+1345. hello
+1346. no
+1347. yes
+1348. pardon
+1349. please
+1350. wow
+1351. damn
+缩略词
+1352. Mr.
+1353. Ms.
+数词
+1354. zero
+1355. one
+1356. two
+1357. three
+1358. four
+1359. five
+1360. six
+1361. seven
+1362. eight
+1363. nine
+1364. ten
+1365. hundred
+1366. thousand
+1367. million
+1368. billion
+关于副词及其他词的解读
+总单词量：123个
+类别：9个
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

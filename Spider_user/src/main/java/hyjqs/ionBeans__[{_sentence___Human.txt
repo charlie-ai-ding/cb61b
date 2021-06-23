@@ -1,0 +1,1 @@
+{"collocationBeans":[{"sentence":"Human influence has been an important factor as regards climate change."},{"sentence":"Success depends on certain factors."},{"sentence":"A combination of factors led to the closure of the factory."}],"request":{"cookies":{},"forceUseCharset":false,"headers":{},"parameters":{},"priority":0,"url":"https://www.ldoceonline.com/dictionary/factor"}}
